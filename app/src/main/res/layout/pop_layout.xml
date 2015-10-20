@@ -23,8 +23,8 @@
         android:background="@color/white"
         android:dividerHeight="0.5dp"
         android:visibility="visible"/>
-    <Button
-        android:id="@+id/button_pop"
+    <View
+        android:id="@+id/view_pop"
         android:layout_width="0dp"
         android:layout_weight="0.49"
         android:layout_height="match_parent"

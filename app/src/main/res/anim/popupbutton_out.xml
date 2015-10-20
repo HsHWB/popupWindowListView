@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android" >
+    <!-- button出现过程，透明度变小 ,0为全透明，不可见-->
+    <alpha
+        android:fromAlpha="0.0"
+        android:toAlpha="1.0"
+        android:duration="2000" />
+</set>

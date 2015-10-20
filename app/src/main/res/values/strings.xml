@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">popupwindow</string>
+    <string name="popup_visit">显示popuwindow</string>
+</resources>
